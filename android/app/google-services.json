@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "85354437050",
+    "project_id": "dupdup-29133",
+    "storage_bucket": "dupdup-29133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85354437050:android:e2085014d6089ec5942583",
+        "android_client_info": {
+          "package_name": "com.mycompany.kloudhackathon2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85354437050-6van631vagb50sn2i304l3j1ta2sp75l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCVME8ngLABC2s8GQXK4iXps_BmMOdXtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85354437050-6van631vagb50sn2i304l3j1ta2sp75l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85354437050-jd20kbriuah8oca1j5du0o6rv1c1k3d7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.kloudhackathon2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
