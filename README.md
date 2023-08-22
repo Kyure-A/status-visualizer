@@ -1,7 +1,3 @@
-# dupdup
+# status-visualizer
 
-A new Flutter project.
-
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Kloud Hackathon #2 で出したやつです (FlutterFlow でつくったから code は書いてない)
